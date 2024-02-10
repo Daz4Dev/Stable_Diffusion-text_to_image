@@ -4,7 +4,7 @@ It was implemented on Google Colab, taking advantage of the free T4 GPU access. 
 To operate - 
    Run the file on Colab with runtime set to GPU instead of CPU.
  --------------------------------------------------------------------------------
- sample image generation (15sec) :
+ sample image generation (15sec) : (interstellar ship)
 
 
  
