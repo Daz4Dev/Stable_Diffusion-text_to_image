@@ -4,3 +4,8 @@ It was implemented on Google Colab, taking advantage of the free T4 GPU access. 
 To operate - 
    Run the file on Colab with runtime set to GPU instead of CPU.
  --------------------------------------------------------------------------------
+ sample image generation (15sec) :
+
+
+ 
+![download](https://github.com/Daz4Dev/Stable_Diffusion-text_to_image/assets/147746778/6e2fb145-ad85-4aac-9ee5-7b77c7c4ebab)
